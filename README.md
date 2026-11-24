@@ -25,8 +25,32 @@ Explore the feasibility of a landmark tower concept: **40 stories / up to 60 flo
 - **Scenario C:** Smaller, phased, mixed-use, low-rise, or joint-venture alternative.
 - **Underground:** basement levels are not presumed feasible; geotechnical, groundwater, utilities, access, code, and cost must be assessed.
 
+## Repository map
+
+### Project foundations
+- [CLAUDE.md](CLAUDE.md) — operating instructions for Claude and other AI assistants
+- [AGENTS.md](AGENTS.md) — agent roles, responsibilities, controls and deliverables
+- [HANDOFF.md](HANDOFF.md) — current project status, next actions and handoff notes
+- [BUSINESS_PLAN.md](BUSINESS_PLAN.md) — preliminary business concept and alternatives
+- [EVALUATION.md](EVALUATION.md) — preliminary independent evaluation
+
+### Development and finance package
+- [docs/FEASIBILITY_WORKPLAN.md](docs/FEASIBILITY_WORKPLAN.md) — evidence-led workstreams and decision gates
+- [docs/FINANCIAL_MODEL_SPEC.md](docs/FINANCIAL_MODEL_SPEC.md) — financial model structure, formulas and sensitivity tests
+- [docs/FUNDING_AND_PARTNER_STRATEGY.md](docs/FUNDING_AND_PARTNER_STRATEGY.md) — land contribution, JV, debt, equity, lease and partner routes
+- [docs/INVESTOR_READINESS.md](docs/INVESTOR_READINESS.md) — evidence room and investor presentation checklist
+- [docs/OUTREACH_TEMPLATES.md](docs/OUTREACH_TEMPLATES.md) — carefully qualified introductory templates
+- [docs/DEVELOPMENT_GATES.md](docs/DEVELOPMENT_GATES.md) — stop/go controls before commitments and construction
+
+### Data templates
+- [data/project_inputs_template.csv](data/project_inputs_template.csv) — blank, sourced input register for future modelling
+- [data/risk_register.csv](data/risk_register.csv) — initial risks, evidence requirements and owners
+
+## Current status
+Planning framework and templates only. The site location, parcel size, title, zoning, planning capacity, market, cost plan, valuation, funding and partner interest are unverified. The financial model is a specification and blank input register; it does not contain a project valuation or forecast.
+
 ## Decision gates
-No irreversible expenditure or construction before the relevant approvals, contracts, financing, and safety reviews. See [HANDOFF.md](HANDOFF.md), [EVALUATION.md](EVALUATION.md), and [BUSINESS_PLAN.md](BUSINESS_PLAN.md).
+No irreversible expenditure or construction before the relevant approvals, contracts, financing, and safety reviews. No land transfer, option, mortgage, guarantee, public investment solicitation or exclusivity commitment without independent local legal advice.
 
 ## Disclaimer
-This repository is planning and research material, not legal, architectural, engineering, investment, tax, or lending advice. Never fabricate approvals, investor interest, valuations, cash flows, collateral, tenant commitments, or project credentials. Do not bypass rules or safety requirements.
+This repository is planning and research material, not legal, architectural, engineering, investment, tax, valuation, or lending advice. Never fabricate approvals, investor interest, valuations, cash flows, collateral, tenant commitments, or project credentials. Do not bypass rules or safety requirements.
