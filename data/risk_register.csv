@@ -1,0 +1,16 @@
+risk_id,category,risk,initial_severity,likelihood,impact,mitigation,evidence_needed,owner,status
+R01,Title,Title defects or unverified ownership,critical,unknown,critical,Independent title and encumbrance review,Official registry extract and legal opinion,Counsel,open
+R02,Planning,40 or 60 floors not permitted,critical,unknown,critical,Obtain zoning memorandum and lawful entitlement advice,Official zoning and written authority guidance,Planning agent,open
+R03,Site,Parcel size/access/utilities insufficient,high,unknown,high,Survey and utility capacity review,Survey and utility provider responses,Technical agent,open
+R04,Geotechnical,Groundwater or ground conditions make basement uneconomic,high,unknown,high,Stage geotechnical and groundwater investigations,Desktop and field reports,Technical agent,open
+R05,Environmental,Contamination/flood/ecological constraints,high,unknown,high,Environmental and flood screening,Environmental reports and official maps,Technical agent,open
+R06,Market,No sufficient demand for proposed program,high,unknown,high,Independent market study and staged leasing tests,Dated comparables and demand evidence,Market agent,open
+R07,Cost,Cost inflation or omitted scope makes project unviable,critical,unknown,critical,Independent quantity-surveyor cost plan and contingency,Cost plan and scope/exclusions,Financial agent,open
+R08,Financing,No partner/equity/debt available,critical,unknown,critical,Test alternatives and reduce scope before land encumbrance,Verified investor/lender criteria and commitments,Financial agent,open
+R09,Legal,Improper SPV/JV or land transfer creates loss/liability,critical,unknown,critical,Independent legal and tax advice,Reviewed structure and contracts,Counsel,open
+R10,Delivery,Experienced contractor/developer unavailable,high,unknown,high,Prequalify partners on completed comparable assets,References and audited/project evidence,Coordinator,open
+R11,Schedule,Approval/utility/market delays increase carrying costs,high,unknown,high,Critical-path schedule and delay sensitivities,Authority responses and professional programme,Project manager,open
+R12,Disclosure,Investor or tenant materials overstate status,high,unknown,high,Legal review and controlled evidence register,Approved presentation and source index,Coordinator,open
+R13,AI partnership,Assumed AI tenant or barter does not materialize,medium,unknown,medium,Do not include as committed revenue or funding; use ordinary lease assumptions,Executed lease only if eventually signed,Partnership agent,open
+R14,Governance,Founder loses control or land rights through poorly understood terms,critical,unknown,critical,Independent counsel; reserved matters and limits on guarantees,Reviewed term sheet and shareholder agreement,Founder/Counsel,open
+R15,Public process,Rezoning or discretionary approvals opposed or refused,high,unknown,high,Transparent consultation and realistic alternative scenarios,Official process requirements and written decision records,Planning agent,open
