@@ -1,0 +1,39 @@
+field,description,unit_or_format,low_case,base_case,high_case,source_id,status,owner,notes
+country,Country,jurisdiction,,,,,unknown,Founder,Do not publish private identity documents
+city,City / municipality,text,,,,,unknown,Founder,Required before local planning research
+planning_authority,Relevant planning authority,text,,,,,unknown,Coordinator,Verify from official sources
+parcel_area,Verified gross parcel area,square metres,,,,,unknown,Surveyor,Use measured or official area and identify source
+parcel_reference,Public parcel/cadastral reference,text,,,,,unknown,Founder/Counsel,Keep sensitive title material private
+title_status,Title and ownership status,text,,,,,unknown,Counsel,Independent legal verification required
+encumbrances,Liens/easements/restrictions,text,,,,,unknown,Counsel,Do not assume none
+current_zoning,Official land-use designation,text,,,,,unknown,Planning agent,Official source and effective date
+permitted_height,Permitted height,metres or floors,,,,,unknown,Planning agent,Do not assume 40 or 60 floors permitted
+floor_area_ratio,Permitted plot ratio / FAR,multiplier,,,,,unknown,Planning agent,Confirm local measurement convention
+site_coverage,Maximum site coverage,percent,,,,,unknown,Planning agent,Check definition and exclusions
+setbacks,Required setbacks,metres,,,,,unknown,Planning agent,Record each boundary separately
+parking_requirement,Parking/loading standard,text or spaces,,,,,unknown,Planning agent,Check current local standard
+buildable_gfa,Planning-supported gross floor area,square metres,,,,,unknown,Architect/Planner,Subject to formal planning analysis
+net_to_gross_efficiency,Net lettable or saleable efficiency,percent,,,,,unknown,Architect/Cost consultant,Comparable and design-dependent
+program_mix,Proposed use allocation,percent by use,,,,,unknown,Market agent,Must total 100 percent of allocated area
+construction_cost_rate,Cost per gross floor area,local currency / square metre,,,,,unknown,Quantity surveyor,Scope, date, exclusions and source required
+soft_costs,Professional and statutory costs,local currency,,,,,unknown,Quantity surveyor,Do not omit permit and utility charges
+basement_area,Potential underground area,square metres,,,,,unknown,Engineer,Optional; requires geotechnical and groundwater review
+basement_cost,Underground works cost,local currency,,,,,unknown,Quantity surveyor,Must include excavation, support and groundwater measures
+contingency,Cost contingency,percent,,,,,unknown,Quantity surveyor,Set based on design maturity and risk
+escalation,Cost escalation,percent / time,,,,,unknown,Quantity surveyor,Specify base date and construction period
+schedule_months,Predevelopment through stabilization,months,,,,,unknown,Project manager,Separate approvals, construction and lease-up
+rent_by_use,Market rent by use,local currency / square metre / period,,,,,unknown,Market advisor,Comparable evidence and incentives
+sales_value_by_use,Market sale value by use,local currency / square metre,,,,,unknown,Valuer/Market advisor,Only if sale strategy is lawful and intended
+vacancy,Stabilized vacancy,percent,,,,,unknown,Market advisor,Use evidence and stress tests
+operating_costs,Property operating expenses,local currency / year,,,,,unknown,Operator/Market advisor,Separate recoverable and non-recoverable costs
+capitalization_rate,Market capitalization rate,percent,,,,,unknown,Valuer,Only for appropriate income valuation
+interest_rate,Debt interest assumption,percent per year,,,,,unknown,Lender/Advisor,Not a loan offer
+lender_ltc,Indicative loan-to-cost,percent,,,,,unknown,Lender,Subject to lender criteria and terms
+lender_ltv,Indicative loan-to-value,percent,,,,,unknown,Lender,Subject to valuation and collateral rules
+land_valuation,Independent land valuation,local currency,,,,,unknown,Valuer,Date, basis, assumptions and limitations
+land_contribution_value,Agreed JV land contribution value,local currency,,,,,unknown,Counsel/Valuer,Not automatically equal to cash equity
+equity_available,Verified committed equity,local currency,,,,,unknown,Investor/Lender,Count only documented commitments
+debt_available,Verified committed debt,local currency,,,,,unknown,Lender,Count only documented facility commitments
+tenant_commitments,Executed tenant commitments,text,,,,,unknown,Leasing agent,Distinguish inquiry, LOI, heads of terms and lease
+currency,Reporting currency,ISO 4217 code,,,,,unknown,Coordinator,Do not mix currencies without explicit FX assumptions
+model_as_of,Model valuation date,YYYY-MM-DD,,,,,unknown,Model owner,All market and cost inputs need dates
